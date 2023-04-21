@@ -1,0 +1,16 @@
+{
+  "name": "44-week3-chalenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "dead-server --host=localhost --port=27006"
+  },
+  "keywords": [],
+  "author": "ZygimantasL",
+  "license": "MIT",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
