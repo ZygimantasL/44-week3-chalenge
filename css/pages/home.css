@@ -1,0 +1,14 @@
+/* base */
+@import "../base/base.css";
+@import "../base/layout.css";
+
+/* 3rd-party */
+/* components */
+/* CUSTOM STYLE BELOW THIS COMMENT */
+
+@media (min-width: 1441px)
+{.background{
+    width: 100%;
+    /* background-color: #74c69d; */
+}
+}

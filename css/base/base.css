@@ -1,0 +1,23 @@
+:root{
+    --main-color: #74c69d;
+    --secondary-color: #fff;
+}
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Work Sans;
+}
+
+.top-background{
+    width: 1440px;
+    height: 586px;
+    background-color: var(--main-color);
+}
+.center-background{
+    background-color: var(--secondary-color);
+    margin-top: 50px;
+    align-items: center;
+}
+
